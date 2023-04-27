@@ -16,7 +16,7 @@ Setup is done entirely via the [UI](https://my.home-assistant.io/redirect/config
 
 ## To Do
 
-[x] Setup a stop for a specific bus with id
-[ ] Setup a stop with selectors
-[ ] Setup a stop and propose all buses on this stop
-[ ] Refactor/Optimize code for config flow
+- [x] Setup a stop for a specific bus with id
+- [ ] Setup a stop with selectors
+- [ ] Setup a stop and propose all buses on this stop
+- [ ] Refactor/Optimize code for config flow
