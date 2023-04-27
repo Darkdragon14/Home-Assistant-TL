@@ -1,0 +1,41 @@
+{
+    "title": "TL",
+    "config": {
+      "step": {
+        "user": {
+          "title": "TL",
+          "description": "Mise en place des informations pour le temps de passage d'un bus à un arrêt préscis.",
+          "data": {
+            "Name": "Le nom souhaité pour l'arrêt",
+            "Bus": "Le code du bus",
+            "Stop": "Le code de l'arrêt",
+            "Direction": "La direction du bus"
+          }
+        }
+      },
+      "error": {
+        "invalid_buses": "Buses must be alphanumeric separated by commas"
+      },
+      "abort": {
+      }
+    },
+    "options": {
+      "step": {
+        "user": {
+          "title": "TL",
+          "description": "Mise à jour des informations pour le temps de passage d'un bus à un arrêt préscis.",
+          "data": {
+            "Name": "Le nom souhaité pour l'arrêt",
+            "Bus": "Le code du bus",
+            "Stop": "Le code de l'arrêt",
+            "Direction": "La direction du bus"
+          }
+        }
+      },
+      "error": {
+        "invalid_buses": "Buses must be alphanumeric separated by commas"
+      },
+      "abort": {
+      }
+    }
+  }

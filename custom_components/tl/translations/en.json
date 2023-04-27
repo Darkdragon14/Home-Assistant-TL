@@ -1,0 +1,41 @@
+{
+  "title": "TL",
+  "config": {
+    "step": {
+      "user": {
+        "title": "TL",
+        "description": "Setup your bus stop information.",
+        "data": {
+          "Name": "The friendly name for the stop",
+          "Bus": "The bus Code",
+          "Direction": "The direciton bus",
+          "Stop": "Stop code"
+        }
+      }
+    },
+    "error": {
+      "invalid_buses": "Buses must be alphanumeric separated by commas"
+    },
+    "abort": {
+    }
+  },
+  "options": {
+    "step": {
+      "user": {
+        "title": "First Bus Stop",
+        "description": "Update your bus stop information.",
+        "data": {
+          "Name": "The friendly name for the stop",
+          "Bus": "The bus Code",
+          "Direction": "The direciton bus",
+          "Stop": "Stop code"
+        }
+      }
+    },
+    "error": {
+      "invalid_buses": "Buses must be alphanumeric separated by commas"
+    },
+    "abort": {
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "domain": "tl",
+  "name": "TL",
+
+  "codeowners": [
+    "@Darkdragon14"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/Darkdragon14/Home-Assistant-TL",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/Darkdragon14/Home-Assistant-TL",
+  "ssdp": [],
+  "version": "1.1.2",
+  "zeroconf": []
+}
