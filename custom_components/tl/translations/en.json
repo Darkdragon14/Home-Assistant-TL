@@ -7,9 +7,9 @@
         "description": "Setup your bus stop information.",
         "data": {
           "Name": "The friendly name for the stop",
-          "Bus": "The bus Code",
-          "Direction": "The direciton bus",
-          "Stop": "Stop code"
+          "Bus": "The line",
+          "Direction": "The direciton",
+          "Stop": "The stop"
         }
       }
     },
@@ -26,9 +26,9 @@
         "description": "Update your bus stop information.",
         "data": {
           "Name": "The friendly name for the stop",
-          "Bus": "The bus Code",
-          "Direction": "The direciton bus",
-          "Stop": "Stop code"
+          "Bus": "The line",
+          "Direction": "The direciton",
+          "Stop": "The stop"
         }
       }
     },

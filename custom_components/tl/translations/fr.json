@@ -4,11 +4,11 @@
       "step": {
         "user": {
           "title": "TL",
-          "description": "Mise en place des informations pour le temps de passage d'un bus à un arrêt préscis.",
+          "description": "Mise en place des informations pour le temps de passage d'un bus à un arrêt préscis.\n D'abord choisi un nom pour l'entité et la ligne souhaitée",
           "data": {
             "Name": "Le nom souhaité pour l'arrêt",
-            "Bus": "Le code du bus",
-            "Stop": "Le code de l'arrêt",
+            "Bus": "La ligne de bus",
+            "Stop": "L'arrêt de bus",
             "Direction": "La direction du bus"
           }
         }
@@ -26,8 +26,8 @@
           "description": "Mise à jour des informations pour le temps de passage d'un bus à un arrêt préscis.",
           "data": {
             "Name": "Le nom souhaité pour l'arrêt",
-            "Bus": "Le code du bus",
-            "Stop": "Le code de l'arrêt",
+            "Bus": "La ligne de bus",
+            "Stop": "L'arrêt de bus",
             "Direction": "La direction du bus"
           }
         }

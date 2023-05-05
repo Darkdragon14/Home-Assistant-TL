@@ -17,6 +17,10 @@ Setup is done entirely via the [UI](https://my.home-assistant.io/redirect/config
 ## To Do
 
 - [x] Setup a stop for a specific bus with id
-- [ ] Setup a stop with selectors
+- [x] Setup a stop with selectors
+- [ ] Config flow to update entity
+- [ ] Best management of error for config flow
 - [ ] Setup a stop and propose all buses on this stop
 - [ ] Refactor/Optimize code for config flow
+- [ ] Add test
+- [ ] Service to select a bus that we need on the moment
